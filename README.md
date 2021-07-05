@@ -8,14 +8,7 @@ I am studying at University Technology of Yogyakarta and also I am freelancer. I
 My portfolios : [https://alfianandi.dev](https://alfianandi.dev)
 
 ## ❤️ Programming Languages & Framework
-![](https://img.shields.io/badge/code-JavaScript-%233282B8) ![](https://img.shields.io/badge/code-Vue.js-%233282B8) ![](https://img.shields.io/badge/code-React.js-%233282B8)
-![](https://img.shields.io/badge/code-SASS-%233282B8)
-![](https://img.shields.io/badge/code-Bootstrap-%233282B8)
-![](https://img.shields.io/badge/code-TypeScript-%233282B8)
-![](https://img.shields.io/badge/code-Node.js-%233282B8)
-![](https://img.shields.io/badge/code-Express-%233282B8)
-![](https://img.shields.io/badge/code-Laravel-%233282B8)
-![](https://img.shields.io/badge/code-PHP-%233282B8)
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 📊 My Stats
 |Github Stats|Languages|
