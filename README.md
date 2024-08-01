@@ -19,7 +19,7 @@
 
 Halo Dunia!, my name is Alfian Andi Nugraha (you can call me 'Andi'), and I'm a recent graduate from Universitas Teknologi Yogyakarta in Indonesia 🇮🇩. I have been working as a Frontend Web Developer since 2021. I love to build applications with good and clean code and enjoy exploring clean architecture to make applications more maintainable and scalable.
 
-- 💼 1.5 Years of Experience.
+- 💼 2.5 Years of Experience.
 - 👨‍💻 Good understanding of React.js, Next.js, TypeScript, and Tailwind.
 - ⚛️ Have experience in the React ecosystem, including React-Query, react-hook-form, and Ant-Design.
 - 📄 Always using JSDoc for Javascript.
